@@ -2,26 +2,15 @@
 # See README.md for instructions on how to do this
 
 
-def fizzbuzz(int)
-    if (int % 5 == 0) && (int % 3 == 0)
-       "Fizzbuzz"
-    elsif (int % 3 == 0)
-       "Fizz"
-    elsif (int % 5 == 0)
-       "Buzz"
-  else (int % 4 == 0)
-    puts "nil"
-end
-end 
 
   
 def fizzbuzz(int)
   if (int % 5 == 0) && (int % 3 == 0)
-puts "Fizzbuzz"
+"Fizzbuzz"
 elsif (int % 3 == 0)
-puts "Fizz"
+"Fizz"
 elsif (int % 5 == 0)
-puts "Buzz"
+"Buzz"
 else
 puts "nil"
 end 
