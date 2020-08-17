@@ -12,9 +12,6 @@ def fizzbuzz(int)
   else (int % 4 == 0)
     puts "nil"
 end
-End
+end 
 
-   if int % 3 == 0 && int % 5 == 0
-
-
-       puts "FizzBuzz"
+  
